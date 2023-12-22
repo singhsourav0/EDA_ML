@@ -13,8 +13,8 @@ Demonstrate EDA techniques for understanding data characteristics and relationsh
 Provide code examples for practical application of EDA tools and libraries.
 Share insights and findings from real-world EDA projects.
 Create a resource for learning and practicing EDA skills.
-## Contents
 
+## Contents
 This repository includes:
 
 Notebooks: Jupyter Notebooks showcasing EDA processes and visualizations.
@@ -24,16 +24,16 @@ Visualizations: Plots and figures generated during EDA.
 Readme.md: This file, providing overview and guidance.
 ## Getting Started
 Clone the repository:
-Bash
-git clone https://github.com/singhsourav0/eda_ml.git
+('''git clone https://github.com/singhsourav0/eda_ml.git''')
 
 Explore notebooks and scripts:
 Follow along with examples to learn EDA techniques.
 Experiment with different datasets and analyses.
+
 ## Contributing
 
-Your contributions are welcome! Feel free to:
-
+Your contributions are welcome! 
+     Feel free to:
 Suggest new EDA projects or datasets.
 Share your own EDA notebooks or scripts.
 Report any issues or suggest improvements.
